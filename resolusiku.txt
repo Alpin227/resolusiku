@@ -2,5 +2,5 @@ Resolusi 11-23
 - Belajar git & github
 - Belajar cmd
 - Belajar Html
-- Css
-- Javascript Dasar
+- Css 
+- Javascript Dasar menengah
