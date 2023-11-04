@@ -1,2 +1,2 @@
 # resolusiku
-rencanan 2023
+rencanana 2023
